@@ -5,4 +5,4 @@ int main() {
 		//modificare pentru testare
 		//o a doua modificare pentru testare
 		//schimbare lol
-}
+} 
